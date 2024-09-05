@@ -1,0 +1,6 @@
+llamacpp
+llama-cpp-python
+llama_index
+llama-index-embeddings-huggingface
+llama-index-llms-lmstudio
+llama-index-vector-stores-postgres

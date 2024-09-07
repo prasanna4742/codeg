@@ -37,7 +37,7 @@ class _Configuration:
     )
     _code_splitter = CodeSplitter = CodeSplitter(
         language="java",chunk_lines=64,chunk_lines_overlap=32,max_chars=2048,)
-    _input_directory = str = "/home/pkulkarni4/work/code/cds/cds-information-model-service-main/cds-information-model-service/src/main/java"
+    _input_directory = str = "java_dir_path"
     _chat_mode="condense_plus_context"
     _context_prompt=(
         "You are an expert Java developer. "
